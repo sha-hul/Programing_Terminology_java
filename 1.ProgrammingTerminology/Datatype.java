@@ -1,4 +1,4 @@
-class Datatype{
+public class Datatype{
     public static void main(String[] args) {
         int a=20;
         char b='S';
